@@ -14,12 +14,12 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
   - Inteligencia artificial.
   - Desarrollo web.
  
-
+### Librerías y paquetes
  
 | Análisis de datos |             |
 | --- | --- |
 | Numpy | es el paquete más usado |
-| Pandas | herramienta de código abierto, veloz y sencilla de usar a la hroa de manipular datos |
+| Pandas | herramienta de código abierto, veloz y sencilla de usar a la hora de manipular datos |
 
 | Visualización de datos |             |
 | --- | --- |
