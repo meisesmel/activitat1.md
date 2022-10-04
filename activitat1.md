@@ -8,7 +8,7 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 ### Características
 - **Lenguaje interpretado**: no se necesita transformar el lenguaje de los programas a uno equivalente, ya que los intérpretes que se usan en este lenguaje se encargan de ejuecutar los programas a través de scripts propios.
 - **Multiplataforma**: este programa puese ser ejecutado en varios sistemas operativos como Lynux, Windows, Mac OS, etc
-- **Tipado dinámico**: esto permite que las variables usadas en este lenguaje no te ngan que especificar el tipo ya que adoptan un tipo automáticamente en función del valor que se les asigne.
+- **Tipado dinámico**: esto permite que las variables usadas en este lenguaje no tengan que especificar el tipo ya que adoptan un tipo automáticamente en función del valor que se les asigne.
 - **Lenguaje open source**: es un lenguaje de código abierto, es decir, cualquier persona puede usarlo de forma gratuita.
 - **Ampliamente respaldado**: Python tiene una comunidad de usuarios muy grande lo cual es útil para cuando necesitemos información o ayuda.
 - **Es polivalente**: se usa para infinidad de proyectos y aplicaciones, destacan:
@@ -20,13 +20,13 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
  
 | Análisis de datos |             |
 | --- | --- |
-| Numpy | es el paquete más usado |
-| Pandas | herramienta de código abierto, veloz y sencilla de usar a la hora de manipular datos |
+| Numpy | Es el paquete más usado |
+| Pandas | Herramienta de código abierto, veloz y sencilla de usar a la hora de manipular datos |
 
 | Visualización de datos |             |
 | --- | --- |
-| Seaborn| es una librería para observar datos  |
-| Bokeh | es una librería interactiva de visualización para navegadores web modernos|
+| Seaborn| Es una librería para observar datos  |
+| Bokeh | Es una librería interactiva de visualización para navegadores web modernos|
 
 ### Variables en Python
 
