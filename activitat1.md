@@ -19,7 +19,7 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 | Análisis de datos |             |
 | --- | --- |
 | Numpy | es el paquete más usado |
-| Pandas | herramienta de código abierto, veloz y sencilla de usar a la hroa de manipualr datos |
+| Pandas | herramienta de código abierto, veloz y sencilla de usar a la hroa de manipular datos |
 
 | Visualización de datos |             |
 | --- | --- |
