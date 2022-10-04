@@ -6,7 +6,7 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 
 
 ### Características
-- **Lenguaje interpretado**: no se necesita transformar el lenguaje de los programas a uno equivalente, ya que los intérpretes que se usan en este lenguaje se encargan de ejuecutar los programas a través de scripts propios.
+- **Lenguaje interpretado**: no se necesita transformar el lenguaje de los programas a uno equivalente, ya que los intérpretes que se usan en este lenguaje se encargan de ejecutar los programas a través de scripts propios.
 - **Multiplataforma**: este programa puese ser ejecutado en varios sistemas operativos como Lynux, Windows, Mac OS, etc
 - **Tipado dinámico**: esto permite que las variables usadas en este lenguaje no tengan que especificar el tipo ya que adoptan un tipo automáticamente en función del valor que se les asigne.
 - **Lenguaje open source**: es un lenguaje de código abierto, es decir, cualquier persona puede usarlo de forma gratuita.
