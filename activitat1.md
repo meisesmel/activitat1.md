@@ -13,6 +13,14 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
   - Aprendizaje automático.
   - Inteligencia artificial.
   - Desarrollo web.
-  com deixar de escriure a la mateixa linea
+ 
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png)
+ 
+| Análisis de datos |             |
+| --- | --- |
+| Numpy | es el paquete más usado |
+| Pandas | herramienta de código abierto, veloz y sencilla de usar a la hroa de manipualr datos |
+
+ 
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png
