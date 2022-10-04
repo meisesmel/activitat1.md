@@ -8,7 +8,7 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 ### Características
 - **Lenguaje interpretado**: no se necesita transformar el lenguane de los programas a uno equivalente, ya que los intérpretes que se usan en este lenguaje se encargan de ejuecutar los programas a través de scripts propios.
 - **Multiplataforma**: este programa puese ser ejecutado en varios sistemas operativos como Lynux, Windows, Mac OS, etc
-- **Tipado dinámico**: esto per mite que las variables usadas en este lenguaje no te ngan que especificar el tipo ya que adoptan un tipo automáticamente en función del valor que se les asigne.
+- **Tipado dinámico**: esto permite que las variables usadas en este lenguaje no te ngan que especificar el tipo ya que adoptan un tipo automáticamente en función del valor que se les asigne.
 - **Lenguaje open source**: es un lenguaje de código abierto, es decir, cualquier persona puede usarlo de forma gratuita.
 - **Ampliamente respaldado**: Python tiene una comunidad de usuarios muy grande lo cual es útil para cuando necesitemos información o ayuda.
 - **Es polivalente**: se usa para infinidad de proyectos y aplicaciones, destacan:
@@ -55,7 +55,6 @@ Fue ceado por **James Gosling** en el **1995**, fue desarrollada por el equipo d
 
 
 ![alt text](https://i.blogs.es/53044d/java/1366_521.jpg)
-
 
 
  
