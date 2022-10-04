@@ -1,6 +1,6 @@
 # LENGUAJES DE PROGRAMACIÓN
 ## PYTHON
-Es un lenguaje que se empezó a desarrollar en **1989**, creado por **Guido Van Rossum**, pero comenzó a usarse en **1991** que fue cuando se lanzó la primera versión pública: **0.9.0.**. 
+Se empezó a desarrollar en **1989**, creado por **Guido Van Rossum**, pero comenzó a usarse en **1991** que fue cuando se lanzó la primera versión pública: **0.9.0.**. 
 A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta actualmente la última versión: **3.10.7**
 ### Características
 - **Lenguaje interpretado**: no se necesita transformar el lenguane de los programas a uno equivalente, ya que los intérpretes que se usan en este lenguaje se encargan de ejuecutar los programas a través de scripts propios.
@@ -26,6 +26,12 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 | Seaborn| es una librería para observar datos  |
 | Bokeh | es una librería interactiva de visualización para navegadores web modernos|
 
+### Variables en Python
+
+
  
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png)
+
+## Java
+Fue ceado por **James Gosling** en el **1995**, fue desarrollada por el equipo de Jame, Green Team, durante 18 meses y a día de hoy cumple 27 años desde su lanzamiento.
