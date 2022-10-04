@@ -47,7 +47,7 @@ Fue ceado por **James Gosling** en el **1995**, fue desarrollada por el equipo d
 - **Dinámico**: Java tiene la capacidad de simplificar el uso de los protocolos actualizados. Si Java se encuentra con un aplicación que no sabe manejas tiene la capacidad de traer las piezas necesarias para que el sistema funcione.
 - **Portable**: Java a parte de ser de arquitectura independiente, implementa más estándares de portabildiad para facilitar el desarrollo.
 
-<a name="C++">1</a>: es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C.
+
 
 
 
@@ -59,4 +59,4 @@ Fue ceado por **James Gosling** en el **1995**, fue desarrollada por el equipo d
 
 
  
-
+<a name="C++">1</a>: es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C. 
