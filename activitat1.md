@@ -21,6 +21,11 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 | Numpy | es el paquete más usado |
 | Pandas | herramienta de código abierto, veloz y sencilla de usar a la hroa de manipualr datos |
 
+| Visualización de datos |             |
+| --- | --- |
+| Seaborn| es una librería para observar datos  |
+| Bokeh | es una librería interactiva de visualización para navegadores web modernos|
+
  
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png
