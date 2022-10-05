@@ -57,5 +57,12 @@ Fue ceado por **James Gosling** en el **1995**, fue desarrollada por el equipo d
 ![alt text](https://i.blogs.es/53044d/java/1366_521.jpg)
 
 
+
+## Ruby 
+
+Fue creado y presentado publicamente en **1995** por el programador Yukihiro, quien escogió lo mejor de la programación (ADA, PERL, SMALLTALK, EIFFEL, LISP) e incluso creó un lenguaje orientado a objetos más potente que Python.
+
+
+
  
 <a name="C++">1</a>: es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C. 
