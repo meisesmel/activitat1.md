@@ -119,5 +119,18 @@ Fue ceado por James Gosling en el 1995, fue desarrollada por el equipo de Jame, 
  
 <a name="C++">1</a>: es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C. 
 
+## Infojobs
+| Lenguaje| Ofertas |
+| --- | --- |
+| Java | 1098 |
+| Python | 610|
+| Ruby   | 15 |
+| Objetive-C | 1880 |
 
 
+### Webgrafía
+- [Catacterísticas Python](https://www.miteris.com/blog/que-es-python-caracteristicas-y-librerias/)
+- [Catacterísticas Python](https://lenguajesdeprogramacion.net/python/)
+- [Variables Ruby](https://openwebinars.net/blog/que-es-ruby/)
+- [Java](https://www.java.com/es/download/help/whatis_java.html)
+- [Objetive-C](https://ferestrepoca.github.io/paradigmas-de-programacion/poo/tutoriales/Objective-C/Tutorial%20Objective-C.pdf)
