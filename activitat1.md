@@ -14,7 +14,6 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 
 ### Características
 - **Lenguaje interpretado**: no se necesita transformar el lenguaje de los programas a uno equivalente, ya que los intérpretes que se usan en este lenguaje se encargan de ejecutar los programas a través de scripts propios.
-- **Multiplataforma**: este programa puese ser ejecutado en varios sistemas operativos como Lynux, Windows, Mac OS, etc
 - **Tipado dinámico**: esto permite que las variables usadas en este lenguaje no tengan que especificar el tipo ya que adoptan un tipo automáticamente en función del valor que se les asigne.
 - **Lenguaje open source**: es un lenguaje de código abierto, es decir, cualquier persona puede usarlo de forma gratuita.
 - **Ampliamente respaldado**: Python tiene una comunidad de usuarios muy grande lo cual es útil para cuando necesitemos información o ayuda.
@@ -35,6 +34,13 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 | Seaborn| Es una librería para observar datos  |
 | Bokeh | Es una librería interactiva de visualización para navegadores web modernos|
 
+### Empleo
+Python se trata de un lenguaje multiplataforma, es decir, este programa puese ser ejecutado en varios sistemas operativos como:
+- Lynux.
+- Windows.
+- Mac OS.
+- Etc.
+
 ### Variables en Python
 En Python las variables son "etiquetas" que permiten hacer referencia a los datos (que se guardan en unas "cajas" llamadas objetos).
 
@@ -43,20 +49,24 @@ En Python las variables son "etiquetas" que permiten hacer referencia a los dato
 Variable hecha en una página:
 ![image](https://user-images.githubusercontent.com/114908591/194095727-04b04646-b4d2-4b91-8c87-b2710cd30b81.png)
 
-
- 
-
-
-
-
 ## Ruby 
+![image](https://user-images.githubusercontent.com/114908591/194116660-6eeaa596-1e24-4bdb-b315-51c114c2224e.png)
 
 Fue creado y presentado publicamente en **1995** por el programador Yukihiro, quien escogió lo mejor de la programación (ADA, PERL, SMALLTALK, EIFFEL, LISP) e incluso creó un lenguaje orientado a objetos más potente que Python.
+![image](https://user-images.githubusercontent.com/114908591/194116781-b1db263f-1e32-4990-89d8-334610919d7e.png)
+ 
 
 ### Características 
 - Usa el patrón **MVC** (patrón en el diseño de software comúnmente utilizado para implementar interfaces de usuario, datos y lógica de control)
 - Soporta **múltiples bases de datos**.
 - Tiene una **sintaxis simple**, lo que le convierte en el lenguaje ideal para los principiantes. 
+### Empleo
+Ruby al igual que el anterior lenguaje, se trata de un lenguaje multiplataforma:
+- Lynux.
+- Windows.
+- Mac OS.
+- Etc.
+
 
 ### Variables
 ![image](https://user-images.githubusercontent.com/114908591/194092106-7a907573-d710-4398-8277-087459ecb22a.png)
