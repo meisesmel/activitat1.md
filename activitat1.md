@@ -66,3 +66,6 @@ Fue creado y presentado publicamente en **1995** por el programador Yukihiro, qu
 
  
 <a name="C++">1</a>: es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C. 
+
+
+
