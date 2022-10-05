@@ -1,8 +1,15 @@
 # LENGUAJES DE PROGRAMACIÓN
 ## PYTHON
+
+![image](https://user-images.githubusercontent.com/114908591/194115216-63e1f566-445c-4a12-8bd1-0d704a17ee95.png)
+
+
+
 Se empezó a desarrollar en **1989**, creado por **Guido Van Rossum**, pero comenzó a usarse en **1991** que fue cuando se lanzó la primera versión pública: **0.9.0.**.
 
-A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta actualmente la última versión: **3.10.7**
+A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta actualmente la última versión: **3.10.7** 
+
+![image](https://user-images.githubusercontent.com/114908591/194114955-e8d931ae-72d9-4af0-86b0-629ab89f2fdc.png)
 
 
 ### Características
@@ -29,21 +36,44 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 | Bokeh | Es una librería interactiva de visualización para navegadores web modernos|
 
 ### Variables en Python
+En Python las variables son "etiquetas" que permiten hacer referencia a los datos (que se guardan en unas "cajas" llamadas objetos).
+
+[Explicación de las variables de Python y ejemplos](https://www.mclibre.org/consultar/python/lecciones/python-variables.html)
+
+Variable hecha en una página:
 ![image](https://user-images.githubusercontent.com/114908591/194095727-04b04646-b4d2-4b91-8c87-b2710cd30b81.png)
 
 
  
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png)
+
 
 
 ## Ruby 
 
 Fue creado y presentado publicamente en **1995** por el programador Yukihiro, quien escogió lo mejor de la programación (ADA, PERL, SMALLTALK, EIFFEL, LISP) e incluso creó un lenguaje orientado a objetos más potente que Python.
 
+### Características 
+- Usa el patrón **MVC** (patrón en el diseño de software comúnmente utilizado para implementar interfaces de usuario, datos y lógica de control)
+- Soporta **múltiples bases de datos**.
+- Tiene una **sintaxis simple**, lo que le convierte en el lenguaje ideal para los principiantes. 
+
 ### Variables
 ![image](https://user-images.githubusercontent.com/114908591/194092106-7a907573-d710-4398-8277-087459ecb22a.png)
 ![image](https://user-images.githubusercontent.com/114908591/194093589-c4c242d5-ba50-4404-87ec-1ed2a340b387.png)
+
+## Objective-C
+Fue creado por Brad Cox y la corporación StepStone en **1980**.
+
+Está compuesto por superconjuntos de C,uno de los lenguajes de programación más comunes. 
+
+### Empleo
+Es usado como principal lenguaje de programación en los siguientes sistemas operativos:
+- iOs. 
+- Mac OS X.                                                                             
+- GNUstep.                                                                  
+- Swift.
+
 
 ## Java
 Fue ceado por James Gosling en el 1995, fue desarrollada por el equipo de Jame, Green Team, durante 18 meses y a día de hoy cumple 27 años desde su lanzamiento.
