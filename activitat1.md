@@ -62,7 +62,9 @@ Fue ceado por **James Gosling** en el **1995**, fue desarrollada por el equipo d
 
 Fue creado y presentado publicamente en **1995** por el programador Yukihiro, quien escogió lo mejor de la programación (ADA, PERL, SMALLTALK, EIFFEL, LISP) e incluso creó un lenguaje orientado a objetos más potente que Python.
 
-
+### Variables
+![image](https://user-images.githubusercontent.com/114908591/194092106-7a907573-d710-4398-8277-087459ecb22a.png)
+![image](https://user-images.githubusercontent.com/114908591/194093589-c4c242d5-ba50-4404-87ec-1ed2a340b387.png)
 
  
 <a name="C++">1</a>: es un lenguaje compilado que fue desarrollado en 1980 por Bjarne Stroustroup en los laboratorios At&T como una extensión orientada a objetos del lenguaje C. 
