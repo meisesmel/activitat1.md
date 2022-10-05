@@ -29,6 +29,7 @@ A lo largo de los siguientes años se siguieron subiendo nuevas versiones hasta 
 | Bokeh | Es una librería interactiva de visualización para navegadores web modernos|
 
 ### Variables en Python
+![image](https://user-images.githubusercontent.com/114908591/194095727-04b04646-b4d2-4b91-8c87-b2710cd30b81.png)
 
 
  
