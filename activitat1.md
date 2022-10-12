@@ -134,3 +134,5 @@ Fue ceado por James Gosling en el 1995, fue desarrollada por el equipo de Jame, 
 - [Variables Ruby](https://openwebinars.net/blog/que-es-ruby/)
 - [Java](https://www.java.com/es/download/help/whatis_java.html)
 - [Objetive-C](https://ferestrepoca.github.io/paradigmas-de-programacion/poo/tutoriales/Objective-C/Tutorial%20Objective-C.pdf)
+
+Falta codi i informació del paradigma de programació o compilació de gairebé tots els llenguatges, a més d'avantatges i inconvenients.
